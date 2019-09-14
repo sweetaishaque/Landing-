@@ -1,0 +1,47 @@
+
+body{
+background-color: rgb(245,245,245);
+color: green;
+background-size: cover;
+font-size: 25px;
+font-family: Helvetica;
+font-family: 30px;
+}
+
+#banner{
+	text-align: center;
+	background-image: url("https://images.unsplash.com/photo-1455582916367-25f75bfc6710?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80");
+	background-size; cover;
+	padding: 150px;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+
+#main {
+	color: white;
+	font-size: 50px;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+
+}
+
+h1 {
+	font-family:  'Shadows Info Light', cursive;
+	color: red;
+}
+
+.social {
+  text-decoration: none; 
+}
+
+.social:hover {
+	color: purple;
+	font-size: 50px  
+}
+
+#banner }
+	background-color: blue;
+{
+
